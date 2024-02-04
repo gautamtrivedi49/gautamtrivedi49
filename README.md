@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gautam+Trivedi!;" />
 </h1>
 
-<h3 >A passionate Experienced Front-End Web Developer with a robust skill set in ReactJS, NextJS, SASS/CSS, HTML5, and JavaScript.Known for prioritizing the delivery of high-quality,accessible, and responsive software solutions. Adept at exploring and integrating new technologies to enhance project outcomes. Proven team player with excellent cross-team bonding skills, contributing effectively to collaborative environments. Experienced in utilizing project management tools such as Jira and version control systems like GitLab for efficient Continuous Deployment. Committed to staying abreast of industry trends and committed to driving innovation in web development.</h3>
+<P >A passionate Experienced Front-End Web Developer with a robust skill set in ReactJS, NextJS, SASS/CSS, HTML5, and JavaScript.Known for prioritizing the delivery of high-quality,accessible, and responsive software solutions. Adept at exploring and integrating new technologies to enhance project outcomes. Proven team player with excellent cross-team bonding skills, contributing effectively to collaborative environments. Experienced in utilizing project management tools such as Jira and version control systems like GitLab for efficient Continuous Deployment. Committed to staying abreast of industry trends and committed to driving innovation in web development.</p>
 
 <br/>
 <div align="center">
